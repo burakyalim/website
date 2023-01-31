@@ -1,0 +1,40 @@
+nav.sticky{
+    background-color: rgb(87, 87, 87);
+    text-align: center;     
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul p{
+    display: block;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: medium;
+    margin: 15px;
+}
+nav li a {
+    display: block;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+}
+nav li a:hover {
+    color: rgb(20, 25, 25);
+    background-color: rgb(251, 250, 250);   
+    border-radius: 25px;
+}
+.copyright{
+    margin-top: end;
+    text-align: center;
+    color: rgb(9, 9, 9)
+}
