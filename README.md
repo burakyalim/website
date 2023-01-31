@@ -1,1 +1,1 @@
-<p src="https://burakyalim.github.io/website/">My Website</p>
+[My Website](https://burakyalim.github.io/website/)
